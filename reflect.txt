@@ -1,0 +1,35 @@
+/* Citation and Sources...
+Final Project Milestone 5
+     REFLECTION
+Filename: reflect.txt
+Version 1.0
+Author	Mann Patel
+Revision History
+-----------------------------------------------------------
+Date      Reason
+2021/08/02 Preliminary release
+2021/08/02  Debugged DMA
+-----------------------------------------------------------
+I have done all the coding by myself and only copied the code
+that my professor provided to complete my workshops and assignments.
+-----------------------------------------------------------
+*/
+
+
+--> This project brings together all the concepts of OOP-244 in a nutshell and asks us to implement each one of them in detail. Each milestone was designed     on specific topics and asked us to code according to the instructions provided on that topic. Difficulty on each milestone increased as we proceeded     towards milestone 5(final milestone). It was a very interesting and enjoyable experience while developing the project on General Hospital Pre-Triage     Application.    
+    This whole was quite challenging for me because each milestone asked for some minor but important changes in the previous one especially in milestone 5.
+    But, on the brighter side, when I gradually completed each step of the project, it was a very satisfying feeling for me. Out of all 5 milestones, I was personally very fascinated by milestone 3 because class IOAble worked as an interface for all of its derived classes. This feature of the application was quite interesting for me. Upon completion of this project, I can now comfortably admit that I have gained a firm grip over three pillars of object-oriented 
+    programming namely Encapsulation, Inheritance, and Polymorphism. This project implements encapsulation by asking us to write code for constructors, destructors,
+    classes, other resources, helper functions, etc. From milestones 2 to 5, the inheritance comes into play where I wrote code for derived functions and classes. 
+    For example, the Patient class was derived class of IOAble class. It means that it can use the specified properties of IOAble class to implement its logic. 
+    CovidPatient and TriagePatient were derived classes of Patient class. I also learned about the concept of abstract classes and pure virtual functions. Milestone 5 implemented polymorphism by using one of its types called parametric polymorphism. The template in utils.h module was used to remove the patient from the lineup when admitted. 
+    Overall, it was a very exciting and knowledgeable project, and developing the code for this project seemed to be very beneficial for me. 
+
+--> Speaking of any difficulties, I did not face any major difficulties in the entire project except the load function in milestone 5. I even figured that problem by asking for minor help from our professor Mohammad Shamas. He provided a piece of code with proper explanation and it helped me a lot in the correction of my mistakes. 
+    All the instructions were precisely mentioned and therefore, writing code was quite easier for me. 
+
+--> OOP-244 introduced us to the concept of object-oriented programming. Each one of the features that we learned made our life easier with coding. It increased modularity in our program, therefore, made it easier for us to troubleshoot problems. It also enhanced code reusability through inheritance and increased flexibility through polymorphism. In the previous semester, we learned C-language and it was quite hard for me to catch up with certain concepts like files and strings. 
+    But in OOP, the use of ifstream, ofstream, and string object made it very easy to grasp and implement in real life. As the question of this reflection asked, 
+    the only thing that I would like to improve is the inbuilt functions of cout and cin (ignore, setf, unsetf). It seemed that it was easier to format the output in C-language than in C++. But, I would not deny that sometimes functions like width, precision, etc. helped me a lot to build my code faster and easier. 
+    Both halves of the semesters were taken by highly qualified professors (Fardad and Mohammad) who taught all the concepts with detailed explanations and assisted me at every point where I was stuck. 
+    I studied in a very respectful environment under these professors. Overall, it was a very fascinating experience of studying OOP-244. I hope that my interest continues to develop in C++ in further courses.  	
